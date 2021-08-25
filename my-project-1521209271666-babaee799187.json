@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "my-project-1521209271666",
+  "private_key_id": "babaee799187c7b6b905c3a63bf791b71e45fb0b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCtMma9BEHVTbuj\nrlHc1OvSUb2ZIxDedoxA6nN9q9t22ZZqPuB2onbRzCvVB4qYmNABDSUDopTpPbsY\nLvJWmI9LynSgSLC34w6dtS4ch7RX3R+FK9jdr/9gqRgaoJvRr8RYfaomt+l4ojDv\nT1vSJZ7sKbYjYPS1kywJemfYZs9erRCzP9/Kpd06LlW/rkMUfv53AmZTY+M3gp6Q\nV/Iu0b4TpqQmiWj739o021CAi1Bg3dS8hewloMnNExXsg8i2MD1wB1Pr7yh4yI5/\nt1mIUrdjyWDLHFcyPiM5Ah6+UIzCpJKuGWmCVOm+SW66/p+JD05VWC0TxGckAfgi\n/CFkFzEtAgMBAAECggEAVWzRILSLVg5/mMV/qhi48eUQS4pwpRE6r0AUU61i01WR\n63h01P7f9S2rhuiv0wE4QvR9R7Q2l24zrENnkw+vSfYjHPWNeD19NYsqIbdLW7T8\neX49emZ24vG0KloCUOPNR8o/lNZMSQxSb46oXtfgcWJHbF7DhBWBeHFP6/wVlv+b\nIvIhT85TW/NycskKpVX5piaa2/HBgRbU+1ZULyGz0PhBafRlWHvR4hd8xRpp9ub7\nxim5lADbaKHnzWdGzvldIXQz928k4QnEWOu4dPB+Ixlfnx9hxhsHFH9Z0ZYMa0xl\n4azSp/5OOQpiBe9WZokQiaH4QsZ2EBJrFDgZHcaBDwKBgQDvEgn4sHnpZQhi000K\nTrOVcJXvmHlQyFQ9iBRYJSDjy8G9RryF84X7MsvKODbNSb5xit99ef57q8IM2/fj\nv+epl9N3rrw4TKjrzvGVE3xQOYZCb2ejsSC5AiN/gPBBc5ACwwMFQeC+Y6OMrN6X\nLYMH7g8OiFGwz18fqaPoUAbF9wKBgQC5di5HKyeFJRRI6+KG7tpuGL5uuA9yTSfQ\nI+W5upLzyOrNjaWeX7MwwHeC20dMKzIKePN7JmrcMpQ3+XbCTrWdbsnzcE7NFjFb\nUhylugtLRW47S/s2BFiBlcup64HlumzcgEnxNDLIXfs4nGQ+Bb4KsP+Bs4UcZzxT\n9vIOan+o+wKBgFYES4orFPIg4++Kz0FSJ9Mw+wGF/sBOE+E/wPImCbtsaHzNoq8f\ne6lyEVjk+PLMAbWgneDrr+CXX+54hqxvM88VTYTWXepzyqNthgZ5SFUlHWVx5/xB\nkuB+IH+TyN4D0mDsAX42wcI+322SFVSXj3me8dPswFe5hSRDSTIg+Q7pAoGAe4v4\n5DwhRZcf3jwVWaIALNua8JL450HyxbtEK+fYQUKU+H3l2I0UB+QPOULuShV0bnmI\naX98LFgdWPR8YpCgd9H4Ao3MUN753kXjA5veLjSAbEv/e0qF0z2AwR88F1eLcZCc\nsWv+cG/7DQlR1edpZCHo8/QtNnCnRZ/6PBRCGsUCgYAHh4vpNtAAekmPE+M7sB4V\nczGwCmzGYfCmxi9XUWBEHrp9b3jegXjHEgWQrKXcomhyPrjR3kLagRwLWL9N/124\nIhJMHqT8VSkacBL/qDvBYsVN8hkRoKkEuMmVYGoEQm/9hILxh6hRaDWzDNFLZJBr\nh3U0lI2lexxMNTwSDeYNEA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "learningapp-cloudsql-sa@my-project-1521209271666.iam.gserviceaccount.com",
+  "client_id": "104431220447810105582",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/learningapp-cloudsql-sa%40my-project-1521209271666.iam.gserviceaccount.com"
+}
